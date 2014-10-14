@@ -1,0 +1,1 @@
+Additionally, a specialization exists for every cv-qualified version of each fundamental type, identical to the unqualified specialization, e.g. std::numeric_limits<const int>, std::numeric_limits<volatile int>, and std::numeric_limits<const volatile int> are provided and are equivalent to std::numeric_limits<int>
